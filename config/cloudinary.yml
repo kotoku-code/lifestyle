@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: dbugmxtfj
+  api_key: '918918745194343'
+  api_secret: sM2L-fdD-0gDcYz7IogoIqOP-xI
+  enhance_image_tag: true
+  static_file_support: false
+production:
+  cloud_name: dbugmxtfj
+  api_key: '918918745194343'
+  api_secret: sM2L-fdD-0gDcYz7IogoIqOP-xI
+  enhance_image_tag: true
+  static_file_support: true
+test:
+  cloud_name: dbugmxtfj
+  api_key: '918918745194343'
+  api_secret: sM2L-fdD-0gDcYz7IogoIqOP-xI
+  enhance_image_tag: true
+  static_file_support: false
